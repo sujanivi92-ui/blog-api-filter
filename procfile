@@ -1,1 +1,1 @@
-web: gunicorn blog-api-filter.wsgi:application
+web: gunicorn blog_api_filter.wsgi:application
